@@ -43,6 +43,13 @@ A Python-based terminal application developed to calculate grades and SGPA accor
 pip install tabulate
 python grade_tracker.py
 ```
+## Sample Output
+
+### Output Example 1
+![Output 1](grade_tracker_output_1.jpeg)
+
+### Output Example 2
+![Output 2](grade_tracker_output_2.jpeg)
 
 ## Author
 Harry Fernando
